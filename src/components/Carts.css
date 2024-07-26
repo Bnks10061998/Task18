@@ -1,0 +1,16 @@
+
+.shopping-cart .text-black .mb-5.pt-2{   
+text-align: center;
+color: brown;
+border-radius: 10px;
+background-color: lightpink;
+text-transform: uppercase;
+}
+.shopping-cart  .total .fw-bold.mb-2{
+   padding-left: 900px;
+    background-color: white;
+    text-transform: capitalize;
+}
+.shopping-cart .flex-grow-3.ms-3 .text-primary{
+    color: rgb(255, 102, 0);
+}
